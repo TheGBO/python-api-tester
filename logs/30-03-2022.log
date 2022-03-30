@@ -1,0 +1,10 @@
+[34m(INFO) 30/03/2022 11:32:28 :: Iniciando testes...
+[34m(INFO) 30/03/2022 11:32:28 :: Testando URL: https://reqres.in/api/users?page=2
+[34m(INFO) 30/03/2022 11:32:28 :: Request Demorou 0.640486 segundos 
+[32m(SUCCESS) 30/03/2022 11:32:28 :: OK 200
+
+[34m(INFO) 30/03/2022 11:32:28 :: Testando URL: https://reqres.in/api/users?page=253524
+[34m(INFO) 30/03/2022 11:32:28 :: Request Demorou 0.811633 segundos 
+[32m(SUCCESS) 30/03/2022 11:32:28 :: OK 200
+[31m(ERROR) 30/03/2022 11:32:28 :: Não respondeu com dados
+
